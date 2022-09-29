@@ -1,0 +1,1 @@
+# urine-analysis-strip-middle-point-detection
